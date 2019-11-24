@@ -1,0 +1,10 @@
+{
+    "header": {
+        "code": 200,
+        "message": "success"
+    },
+    "body": {
+        "name": "somkiat",
+        "email": "somkiat.xxx"
+    }
+}

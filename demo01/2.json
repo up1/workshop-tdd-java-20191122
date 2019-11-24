@@ -1,0 +1,6 @@
+{
+    "header": {
+        "code": 501,
+        "message": "DB Error"
+    }
+}
