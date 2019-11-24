@@ -18,3 +18,9 @@
   * Fake
 * [Microservices testing](https://martinfowler.com/articles/microservice-testing)
 * [Code smells](https://sourcemaking.com/refactoring/smells)
+
+## Mock API 
+* https://github.com/azagniotov/stubby4j
+* http://wiremock.org/
+* https://github.com/typicode/json-server
+* http://www.mbtest.org/
